@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/qfo3p2tmmbvutlf6?svg=true)](https://ci.appveyor.com/project/SuperPadla/postman-echo)
